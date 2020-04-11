@@ -1,0 +1,93 @@
+<resources>
+    <string name="app_name">TDM-TD4-EXO4</string>
+    <string-array name="modules">
+        <item>TDM</item>
+        <item>TDW</item>
+        <item>ARCHI</item>
+        <item>HPC</item>
+        <item>BWEB</item>
+        <item>ANAD</item>
+    </string-array>
+    <string-array name="titles">
+        <item>Technique de developement mobile</item>
+        <item>Technique de developement WEB</item>
+        <item>Architecture logiciel</item>
+        <item>High performance computing</item>
+        <item>Berautique</item>
+        <item>Analye de donnees</item>
+    </string-array>
+    <string-array name="delays">
+        <item>6h</item>
+        <item>5h</item>
+        <item>4h</item>
+        <item>7h</item>
+        <item>3h</item>
+        <item>5h</item>
+    </string-array>
+    <string-array name="profs">
+        <item>Mohamed</item>
+        <item>Karim</item>
+        <item>Abdellatif</item>
+        <item>Ahmed</item>
+        <item>Rachid</item>
+        <item>Youcef</item>
+    </string-array>
+    <string-array name="profs_nom">
+        <item>MISSOUMI</item>
+        <item>ATTALA</item>
+        <item>DADA</item>
+        <item>CHACHA</item>
+        <item>AIDONI</item>
+        <item>HAMIDI</item>
+    </string-array>
+    <string-array name="profs_date">
+        <item>17/09/1999</item>
+        <item>13/04/1998</item>
+        <item>1/01/1996</item>
+        <item>14/07/1994</item>
+        <item>17/08/1991</item>
+        <item>21/02/1990</item>
+    </string-array>
+    <string-array name="day_1">
+        <item>Dimanche</item>
+        <item>TDM 8:30 a 10:00</item>
+        <item>TDW 10:10 a 12:00</item>
+        <item>ARCHI 13:00 a 15:00</item>
+        <item>HPC 15:00 a 17:00</item>
+    </string-array>
+    <integer-array name="day_1_ind">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </integer-array>
+    <string-array name="day_2">
+        <item>Lundi</item>
+        <item>BWEB 8:30 a 10:00</item>
+        <item>ANAD 10:10 a 12:00</item>
+        <item>TDM 13:00 a 15:00</item>
+        <item>TDW 15:00 a 17:00</item>
+    </string-array>
+    <integer-array name="day_2_ind">
+        <item>4</item>
+        <item>5</item>
+        <item>0</item>
+        <item>1</item>
+    </integer-array>
+    <string-array name="day_3">
+        <item>Mardi</item>
+        <item>TDM 8:30 a 10:00</item>
+        <item>ARCHI  10:10 a 12:00</item>
+        <item>HPC 13:00 a 15:00</item>
+        <item>TDW 15:00 a 17:00</item>
+    </string-array>
+    <integer-array name="day_3_ind">
+        <item>0</item>
+        <item>2</item>
+        <item>3</item>
+        <item>1</item>
+    </integer-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
